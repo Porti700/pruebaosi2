@@ -1,0 +1,59 @@
+{
+	"Company": "Fairwinds Estate Winery",
+	"HiringCompany": "Outsourcing International",
+	"Departments":[
+					"Logistics", 
+					"Sales",
+					"Marketing",
+					"Accounting",
+					"Finance",
+					"Graphic Design",
+					"Human Resources",
+					"Business Intelligence"
+					], 
+	"OpenPositions":[
+					{
+						"Position":"Warehouse Manager",
+						"Department":"Logistics",
+						"Location":"Principal Warehouse",
+						"RequestedBy":"Logistics Manager"
+					},
+					{
+						"Position":"Telesales Representative",
+						"Department":"Sales",
+						"Location":"Main Call Center",
+						"Requested by":"Sales Manager"
+					}, 
+					{
+						"Position":"Marketing Analyst",
+						"Department":"Marketing",
+						"Location":"Central Office",
+						"RequestedBy":"Marketing Chief"
+					},
+					{
+						"Position":"Datawarehouse Admin",
+						"Department":"BusinessIntelligence",
+						"Location":"Central Office",
+						"RequestedBy":"Business Intelligence Specialist"
+					},
+					{
+						"Position":"Business Analyst",
+						"Department":"BusinessIntelligence",
+						"Location":"Central Office", 
+						"RequestedBy":"Business Intelligence Chief"
+					},
+					{
+						"Position":"Python Developer",
+						"Department":"Business Intelligence",
+						"Location":"Avante",
+						"RequestedBy": "COO"
+					},
+					{
+						"Position": "FullStack Developer Java",
+						"Department": "Business Intelligence",
+						"Location": "Central Office Avante",
+						"RequestedBy": "Marketing Manager",
+						"Company": "Fairwinds Estate Winery"
+					}
+					]					
+}
